@@ -15,7 +15,7 @@ header{
 .container{
 height: 400px;
 width: 600px;
-border: 3px solid black;
+border: 1px solid gray;
 background-color: rgba(134, 30, 30, 0.788);
 color: yellow;
 border-radius: 5px;  
